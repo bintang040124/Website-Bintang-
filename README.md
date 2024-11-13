@@ -19,7 +19,6 @@
 		<td>NIM</td>
 		<td>122230075</td>
 	</tr>
-
 	<tr>
 		<td>Tempat Tgl Lahir</td>
 		<td>BUKITTINGGI, 04 JANUARI 2004</td>
@@ -40,7 +39,6 @@
 		<td>Umur</td>
 		<td>20 Tahun</td>
 	</tr>
-
 	<tr>
 		<td>Pendidikan</td>
 		<td>Mahasiswa S1 Teknik Geomatika Institut Teknologi Sumatera</td>
@@ -49,7 +47,6 @@
 		<td>Semester</td>
 		<td>5</td>
 	</tr>
-
 	<tr>
 		<td>Hobby</td>
 		<td>Futsal</td>
